@@ -4,7 +4,45 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/HHrBDP0xE2/)
 
 ### Languages
-JS, C++, C, Python
+<table>
+<tr>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80" height="80"/></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="80" height="80"/></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="80" height="80"/></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="80" height="80"/></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="80" height="80"/></td>
+</tr> 
+<tr>
+  <td>JavaScript</td>
+  <td>TypeScript</td>
+  <td>C++</td>
+  <td>C</td>
+  <td>Python</td>
+</tr>
+</table>
+
+### Technologies
+<table>
+<tr>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="80" height="80"/></td>  
+  <td>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="80" height="80"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="80" height="80"/>
+  </td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" width="80" height="80"/></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="80" height="80"/></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="80" height="80"/></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" width="80" height="80"/></td>
+</tr> 
+<tr>
+  <td>Nest.js</td>
+  <td>React & Next.js</td>
+  <td>Electron.js</td>
+  <td>React Native</td>
+  <td>Tailwind CSS</td>
+  <td>Three.js</td>
+</tr>
+</table>
 
 - Currently working on my written-from-scratch blog based on nest.js & next.js
 <!--
