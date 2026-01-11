@@ -44,7 +44,13 @@
 </tr>
 </table>
 
-- Currently working on my written-from-scratch blog based on nest.js & next.js
+<br><b>More info in my personal blog & web lab:</b>
+
+[ifshportal.ru](http://ifshportal.ru/)
+
+[I2P hidden layer link (in process of getting domain)](http://x36xkp7lcs6ie3g4hzls2m5pzywxfupezmulvq3hwbetjz3cns5a.b32.i2p/)
+
+<br>► You can see it's <i>source code</i> at -> [ifshportal repo](https://github.com/iFoundSilentHouse/ifshportal) <-
 <!--
 **iFoundSilentHouse/iFoundSilentHouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
