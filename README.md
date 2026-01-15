@@ -3,7 +3,7 @@
 
 [![codewars](https://www.codewars.com/users/iFoundSilentHouse/badges/small)](https://www.codewars.com/users/iFoundSilentHouse)
 
-![](https://leetcard.jacoblin.cool/HHrBDP0xE2?ext=heatmap)
+[![](https://leetcard.jacoblin.cool/HHrBDP0xE2?ext=heatmap)](https://leetcode.com/u/HHrBDP0xE2/)
 
 ### Languages
 <table>
