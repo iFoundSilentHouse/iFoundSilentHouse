@@ -1,7 +1,9 @@
 ## Fullstack JS web-developer
-[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=Telegram&logoColor=white&color=f5f5f2)](https://t.me/Playback667)&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Playback667)&nbsp;
+
 [![codewars](https://www.codewars.com/users/iFoundSilentHouse/badges/small)](https://www.codewars.com/users/iFoundSilentHouse)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/HHrBDP0xE2/)
+
+![](https://leetcard.jacoblin.cool/HHrBDP0xE2?ext=heatmap)
 
 ### Languages
 <table>
