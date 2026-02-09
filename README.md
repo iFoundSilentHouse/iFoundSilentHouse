@@ -48,7 +48,7 @@
 
 <br><b>More info in my personal blog & web lab:</b>
 
-[ifshportal.ru](http://ifshportal.ru/)
+[ifshportal.ru](https://ifshportal.ru/)
 
 [I2P hidden layer link (in process of getting domain)](http://x36xkp7lcs6ie3g4hzls2m5pzywxfupezmulvq3hwbetjz3cns5a.b32.i2p/)
 
