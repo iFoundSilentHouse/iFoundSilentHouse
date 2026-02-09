@@ -50,7 +50,12 @@
 
 [ifshportal.ru](https://ifshportal.ru/)
 
-[I2P hidden layer link (in process of getting domain)](http://x36xkp7lcs6ie3g4hzls2m5pzywxfupezmulvq3hwbetjz3cns5a.b32.i2p/)
+[I2P hidden layer link (b32 to http://ifshportal.i2p/)](http://x36xkp7lcs6ie3g4hzls2m5pzywxfupezmulvq3hwbetjz3cns5a.b32.i2p/)
+
+from notbob statistics listing:
+
+<img width="678" alt="notbob statistics page listing" src="https://github.com/user-attachments/assets/c0b89e8e-d2d5-4325-ab8f-8b81b7a31030" />
+
 
 <br>► You can see it's <i>source code</i> at -> [ifshportal repo](https://github.com/iFoundSilentHouse/ifshportal) <-
 <!--
